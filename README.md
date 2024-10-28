@@ -6,3 +6,6 @@ https://github.com/milesial/Pytorch-UNet/tree/67bf11b4db4c5f2891bd7e8e7f58bcde8e
 
 despeckling 
 https://github.com/alejandromestrequereda/CNN_PolSAR_Despeckling
+
+- remove lambda
+  https://colab.research.google.com/drive/1R4pVoNuE94dBMwVzd5ND5zazQFeNEZOg?authuser=0#scrollTo=dfY4_mAfdEUe
