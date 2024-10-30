@@ -9,3 +9,7 @@ https://github.com/alejandromestrequereda/CNN_PolSAR_Despeckling
 
 - remove lambda
   https://colab.research.google.com/drive/1R4pVoNuE94dBMwVzd5ND5zazQFeNEZOg?authuser=0#scrollTo=dfY4_mAfdEUe
+
+
+- the zip to npy by snap ... here it enhances sar ocean images 
+https://youtu.be/Y1sPPFTIBrE?si=Pm_S3Tm44sZrkQtB
