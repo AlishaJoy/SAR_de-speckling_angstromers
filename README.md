@@ -8,7 +8,9 @@ despeckling
 https://github.com/alejandromestrequereda/CNN_PolSAR_Despeckling
 
 - remove lambda
-  https://colab.research.google.com/drive/1R4pVoNuE94dBMwVzd5ND5zazQFeNEZOg?authuser=0#scrollTo=dfY4_mAfdEUe
+  - https://colab.research.google.com/drive/1R4pVoNuE94dBMwVzd5ND5zazQFeNEZOg?authuser=0#scrollTo=dfY4_mAfdEUe
+  - to read : https://paperswithcode.com/paper/sde-based-multiplicative-noise-removal
+  
 
 
 - the zip to npy by snap ... here it enhances sar ocean images 
